@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hello! I'm Avinash Singh, a passionate full-stack developer focused on building impactful digital solutions using the MERN stack and modern web technologies. I aim to blend innovation with functionality to solve real-world problems.<br><br>My journey spans frontend, backend, and cloud integration, with a strong interest in DevOps and scalable architecture. I love contributing to team-driven tech events and initiatives that inspire growth and collaboration.<br><br>I'm a lifelong learner and team player, always exploring new tools and technologies to create better, smarter, and more efficient software. Through my projects and leadership roles, I strive to make meaningful contributions to the developer ecosystem.<br><br>
+
+Hi, my name is Avinash Singh and I'm from Mirzapur , Uttar Pradesh
+I am pursuing B.Tech. (CSE) from MMMUT Gorakhpur.
+As a Full-Stack developer, I enjoy tackling new challenges and continuously expanding my skillset.
+I am proficient in Javascript, as well as have knowledge in programming languages such as C++, MongoDB , React JS.
+I have a passion for working with Node.js, MongoDB, and modern Javascript libraries and frameworks  like React.js
+
+I am also interested in building new Web Technologies and Products, as well as exploring areas related to Web Development
+I aim to blend innovation with functionality to solve real-world problems.<br><br>My journey spans frontend, backend, and cloud integration, with a strong interest in DevOps and scalable architecture. I love contributing to team-driven tech events and initiatives that inspire growth and collaboration.<br><br>I'm a lifelong learner and team player, always exploring new tools and technologies to create better, smarter, and more efficient software. Through my projects and leadership roles, I strive to make meaningful contributions to the developer ecosystem.<br><br>
 
 
 ## 🌐 Socials:
