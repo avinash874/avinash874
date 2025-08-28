@@ -1,4 +1,4 @@
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/340ca63b-3249-40c6-96ec-d44b7a61d84c)
+![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/300ca63b-3249-40c6-96ec-d44b7a61d84c)
 
 # 💫 About Me:
 
